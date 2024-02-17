@@ -17,7 +17,7 @@ Store Links: [iOS](https://apps.apple.com/fr/app/sinao-scan/id6476152043 "Sinao 
 ### SaaS:
 - Minerva Solution: <br />
 Description: Minerva Solution is a Software as a Service (SaaS) platform that XYZ. <br />
-URL: [app.minervasolution.fr](app.minervasolution.fr "Minerva Solution") <br />
+URL: [app.minervasolution.fr](https://app.minervasolution.fr "Minerva Solution") <br />
 
 ### Contact:
 For inquiries or collaborations, feel free to reach out to me via email.
