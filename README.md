@@ -14,10 +14,5 @@ Store Links: [iOS](https://apps.apple.com/be/app/milora-productivity/id646935940
 Description: Sinao Scan is a mobile application that allows you to scan your invoices, receipts, and send them to your accounting easily. <br />
 Store Links: [iOS](https://apps.apple.com/fr/app/sinao-scan/id6476152043 "Sinao Scan IOS") | [Android](https://play.google.com/store/apps/details?id=fr.sinaoscan.mobile.app&pli=1 "Sinao Scan Android")  <br />
 
-### SaaS:
-- Minerva Solution: <br />
-Description: Minerva Solution is a web-based software tailored for accountants and tax professionals, aiming to save time by simplifying tax-related tasks. By filling out a straightforward form, Minerva Solution provides a comprehensive tax analysis to help optimize your client's tax strategy efficiently. <br />
-URL: [app.minervasolution.fr](https://app.minervasolution.fr "Minerva Solution") <br />
-
 ### Contact:
 For inquiries or collaborations, feel free to reach out to me via email.
