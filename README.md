@@ -1,7 +1,5 @@
 ## Jerome-GBZ's Portfolio 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerome-gbz&show_icons=true)
-
 Welcome, I am a software engineer in Laravel, Angular, and Vue.js. 
 Here you can find some of the projects I've worked on. <br />
 [Explore my work](https://jeromegambiez.com?utm_source=github)
